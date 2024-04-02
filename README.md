@@ -2,10 +2,10 @@
 
 
 ## Implementation
-
+Nav Mesh, Enemy movement, enemy killing
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Mitchell Coons
